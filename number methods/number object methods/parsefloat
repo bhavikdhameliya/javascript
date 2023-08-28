@@ -1,0 +1,8 @@
+//parsefloat
+
+console.log(Number.parseFloat("10"));
+console.log(Number.parseFloat("10.33"));
+console.log(Number.parseFloat("10 20 30"));
+console.log(Number.parseFloat("10 years"));
+console.log(Number.parseFloat("years 10"));
+
