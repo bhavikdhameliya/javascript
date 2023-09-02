@@ -49,7 +49,7 @@
 // console.log(result);
 
 
-// function as a variable
+// 5.function as a variable
 // function as a expression
 // anonymous function
 
