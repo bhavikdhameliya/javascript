@@ -23,7 +23,7 @@
     // console.log('This message is shown first');
     // console.log('Today to much Rain...');
 
-    // // the setTimeout() method calls the greet() function after 3000 milliseconds (3 second).
+    // // the setTimeout() method calls the greet() function after 3000 milliseconds (3 second). 
 
     let x = setInterval(greet, 2000);
     clearInterval(x);
